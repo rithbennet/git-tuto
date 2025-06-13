@@ -9,5 +9,6 @@ public class bike {
 
     public void stop() {
         System.out.println("Stopping the bike!");
+        System.out.println("Stopping the bick!");
     }
 }
