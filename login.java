@@ -9,5 +9,7 @@ public class login {
 
     public void logout() {
         System.out.println("Logging out...");
+        System.out.println("You have been logged out successfully!");
+
     }
 }
